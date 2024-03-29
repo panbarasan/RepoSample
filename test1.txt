@@ -1,10 +1,1 @@
- Volume in drive C is Windows-SSD
- Volume Serial Number is AA05-ECEC
-
- Directory of C:\Users\Jaya Pradha\Desktop\MyProject_Smaple
-
-30-03-2024  00:25    <DIR>          .
-30-03-2024  00:22    <DIR>          ..
-30-03-2024  00:25                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  77,540,614,144 bytes free
+ hello
